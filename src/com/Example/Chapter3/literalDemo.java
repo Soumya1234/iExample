@@ -21,5 +21,9 @@ public class literalDemo {
         System.out.println(a);
         System.out.println(b);
         System.out.println(e);
+        /* Shows the string literal */
+        String f="This program says....\'Hello, World!!\'";
+        System.out.println(f);
+
     }
 }
